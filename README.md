@@ -47,10 +47,12 @@ BigMart is a robust, full-stack e-commerce platform built with **Django**. It br
 2. **Create a Virtual Environment**
    ```bash
   python -m venv venv
-  
+  ```
+
 3. **Install Dependencies**
    ```bash
   pip install -r requirements.txt
+  ```
 
 4. **Run Migrations**
    ```bash
