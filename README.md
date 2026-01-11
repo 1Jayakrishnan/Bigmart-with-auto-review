@@ -38,10 +38,9 @@ BigMart is a robust, full-stack e-commerce platform built with **Django**. It br
 ## 🛠️ Installation & Setup
 
 1. **Clone the repository**
-   ```bash
+   ```
    git clone [(https://github.com/1Jayakrishnan/Bigmart-with-auto-review.git)]
    cd bigmart
-
 2. **Create a Virtual Environment**
    ```bash
   python -m venv venv
@@ -59,4 +58,4 @@ BigMart is a robust, full-stack e-commerce platform built with **Django**. It br
   python manage.py runserver
   
   ```
----
+
